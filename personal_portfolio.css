@@ -512,3 +512,13 @@ a.nav-item:hover{
 .project-buttons .btn-black:hover{
     background:#000;
 }
+
+.projects-container{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:30px;
+}
+
+.last-project{
+    grid-column:2;
+}
