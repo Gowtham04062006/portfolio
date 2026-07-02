@@ -345,3 +345,29 @@ a.nav-item:hover{
 .work-card p{
     line-height:1.7;
 }
+
+.services{
+    background:white;
+    padding:25px;
+    border-radius:15px;
+    margin-bottom:25px;
+    box-shadow:0 5px 15px rgba(0,0,0,.1);
+    transition:.3s ease;
+}
+
+.services:hover{
+    transform:translateY(-6px);
+    border:2px solid #ff6200;
+}
+
+.services h5{
+    font-size:24px;
+    color:#ff6200;
+    margin-bottom:15px;
+}
+
+.services p{
+    font-size:16px;
+    line-height:1.8;
+    color:#444;
+}
