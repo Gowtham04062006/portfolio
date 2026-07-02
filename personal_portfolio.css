@@ -449,3 +449,18 @@ a.nav-item:hover{
     cursor:default;
 
 }
+
+.exp-list{
+    margin-top:15px;
+    padding-left:20px;
+}
+
+.exp-list li{
+    margin-bottom:12px;
+    line-height:1.7;
+    color:#444;
+}
+
+.exp-list li::marker{
+    color:#ff6200;
+}
