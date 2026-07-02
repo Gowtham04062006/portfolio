@@ -464,3 +464,12 @@ a.nav-item:hover{
 .exp-list li::marker{
     color:#ff6200;
 }
+
+.project-buttons{
+    margin-top:25px;
+}
+
+.project-buttons .btn{
+    padding:10px 25px;
+    font-size:16px;
+}
