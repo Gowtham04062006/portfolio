@@ -11,7 +11,7 @@
     justify-content: space-between;
     padding: 0 60px;
 }
-h5{
+#info h5{
     font-size: 20px;
     color: rgb(255, 98, 0);
 }
@@ -75,12 +75,12 @@ h5{
     margin-top: 20px;
 }
 
-h4{
+#info h4{
     margin-bottom: 5px;
     font-size: 30px;
 }
 
-h3{
+#info h3{
     margin: 0;
     font-size: 40px;
 }
