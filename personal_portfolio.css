@@ -528,3 +528,13 @@ a.nav-item:hover{
 .last-project{
     grid-column:2;
 }
+
+.project-card{
+    min-height: auto !important;
+    justify-content: flex-start !important;
+    gap: 18px;
+}
+
+.project-card .project-buttons{
+    margin-top: auto;
+}
